@@ -15,8 +15,6 @@ public class QuadraticFormula
         System.out.print("Enter c: ");
         int c = scan.nextInt();
 
-        System.out.println("Solution 1 is " + root1(a, b, c));
-        System.out.println("Solution 2 is " + root2(a, b, c));
     }
 
     // Write a function method called root1 that accepts 3 int parameters and
